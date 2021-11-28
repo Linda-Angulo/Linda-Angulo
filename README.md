@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Linda-Angulo
+- 👋 Hi, I’m @lindangulopez
 - 👀 I’m interested in Node and Python Cloud Development
 - 🌱 I’m currently learning GIS
 - 💞️ I’m looking to collaborate on Decision Science Tools
