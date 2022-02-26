@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @lindangulopez
-- 👀 I’m interested in Node and Python Cloud Development
-- 🌱 I’m currently learning GIS
-- 💞️ I’m looking to collaborate on Decision Science Tools
+- 👀 I’m interested in GIS for Sustainable Development
+- 🌱 I’m currently learning Node and Python Cloud Development
+- 💞️ I’m looking to collaborate on Climate Action Decision Science Tools 
 - 📫 How to reach me [linkedIn](https://www.linkedin.com/in/lindangulopez/)
 
 <!---
